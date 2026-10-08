@@ -12,3 +12,7 @@ Collection of LeetCode problem solutions written in Java.
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [`q4MedianOfTwoArrays.java`](q4MedianOfTwoArrays.java) | Hard | Array, Binary Search, Divide and Conquer |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [`q5LongestPalindrome.java`](q5LongestPalindrome.java) | Medium | Two Pointers, String, Dynamic Programming |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [`q6ZigzagConversion.java`](q6ZigzagConversion.java) | Medium | String |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [`q7ReverseInteger.java`](q7ReverseInteger.java) | Medium | Math |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [`q8StringToIntegerAtoi.java`](q8StringToIntegerAtoi.java) | Medium | String |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [`q9PalindromeNumber.java`](q9PalindromeNumber.java) | Easy | Math |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [`q10RegularExpressionMatching.java`](q10RegularExpressionMatching.java) | Hard | String, Dynamic Programming, Recursion |
